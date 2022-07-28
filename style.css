@@ -6,6 +6,7 @@ body{
 .logo-font{
     font-family: 'Mochiy Pop One', sans-serif;
 }
+
 .heit{
     height: 200px;
     background-color: aqua;
@@ -23,12 +24,10 @@ body{
     color: #FFC014;
 }
 .social ul{
-    list-style-type: none; 
+    
 }
 .social ul li a{
-    text-decoration: none;
     font-size: 15px;
-    color: #FFC014;
 }
 .fa-brands{
     font-size: 20px;
